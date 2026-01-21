@@ -1,0 +1,5 @@
+{
+  "name": "Session Reconstruct",
+  "description": "A sophisticated HAR analysis tool that reconstructs user sessions into plain English and machine instructions using Gemini AI.",
+  "requestFramePermissions": []
+}
